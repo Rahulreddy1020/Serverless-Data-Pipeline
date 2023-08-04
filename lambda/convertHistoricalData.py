@@ -7,8 +7,7 @@ from helperFunctions import s3_gzip_to_json, write_parquet_table_to_s3
 DEST_PREFIX = "datalake/forex_historical/"
 BUCKET = os.environ["BUCKET_NAME"]
 
-# Defining the schema here will ensure that there are no
-# problems when creating accessing the data through Glue
+# Defining the schema here will ensure that there are no problems when creating accessing the data through Glue
 FILE_SCHEMA = pa.schema([
     ("from_currency", pa.string()),
     ("to_currency", pa.string()),
