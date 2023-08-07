@@ -1,3 +1,8 @@
+# Architecture 
+
+!<img width="335" alt="image" src="https://github.com/Rahulreddy1020/Serverless-Data-Pipeline-using-AWS-Lambda-and-Provisioning-infra-with-AWS-CDK/assets/83365184/fce0b5e4-81fe-40c3-b5a4-e496a381415e">
+
+
 
 # Welcome to your CDK Python project!
 
