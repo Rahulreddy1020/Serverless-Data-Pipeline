@@ -33,7 +33,7 @@ class GlueDatabaseStack(Stack):
             )
         )
 
-        # Create the historical stock table
+        # Create historical stock table
         historical_stock_table = glue.CfnTable(self, "HistoricalStockTable",
             catalog_id=self.account,
             database_name=DATABASE_NAME,
@@ -90,7 +90,7 @@ class GlueDatabaseStack(Stack):
             )
         ) 
 
-        #A crawler to crawl the intraday data
+        #crawler to crawl the intraday data
         intraday_stock_data_crawler = glue.CfnCrawler(self, "IntradayStockDataCrawler",
             role=glue_role.role_name,
             name="intraday_stock_data_crawler",
