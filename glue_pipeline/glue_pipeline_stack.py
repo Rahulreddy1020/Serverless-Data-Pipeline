@@ -79,7 +79,7 @@ class GluePipelineStack(Stack):
             nat_gateway_id=nat_gateway.attr_nat_gateway_id,
             destination_cidr_block="0.0.0.0/0",
         )"""
-        #################################################################################
+        ################################################################
 
         # We can now create the JDBC Configuration to Postgres/RDS
         rds_connection = glue.CfnConnection(self, "JDBCConnectionToRDS",
