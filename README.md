@@ -9,6 +9,11 @@ https://www.alphavantage.co/
 
 # Tech Stack
 
+Language : Python
+  
+Services: AWS Labda, AWS CDK, AWS Glue, AWS Athena, AWS S3
+
+
 # Architecture 
 
 !<img width="335" alt="image" src="https://github.com/Rahulreddy1020/Serverless-Data-Pipeline-using-AWS-Lambda-and-Provisioning-infra-with-AWS-CDK/assets/83365184/fce0b5e4-81fe-40c3-b5a4-e496a381415e">
