@@ -5,7 +5,7 @@ The main objective of this project is to build a serverless data pipeline using 
 
 ## Data 
 
-! https://www.alphavantage.co/
+https://www.alphavantage.co/
 
 # Architecture 
 
