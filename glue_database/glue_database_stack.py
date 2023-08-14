@@ -11,7 +11,7 @@ from decouple import config
 BUCKET_NAME = config("BUCKET_NAME")
 DATABASE_NAME = config("DATABASE_NAME")
 TAGS = [
-    CfnTag(key="ProjectOwner",value="Alex-Clark"),
+    CfnTag(key="ProjectOwner",value="Rahul"),
     CfnTag(key="ProjectName",value="Big-Data-Pipeline")
 ]
 
