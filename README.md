@@ -16,7 +16,8 @@ Services: AWS Labda, AWS CDK, AWS Glue, AWS Athena, AWS S3
 
 # Architecture 
 
-! <img width="335" alt="image" src="https://github.com/Rahulreddy1020/Serverless-Data-Pipeline-using-AWS-Lambda-and-Provisioning-infra-with-AWS-CDK/assets/83365184/fce0b5e4-81fe-40c3-b5a4-e496a381415e">
+![SP Ar](https://github.com/Rahulreddy1020/Serverless-Data-Pipeline/assets/83365184/2ec47bb3-7f5d-4e0c-949c-76b03ae6df3b)
+
 
 
 
