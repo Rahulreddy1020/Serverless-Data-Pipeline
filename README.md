@@ -1,6 +1,6 @@
 # Objective
 
-The main objective of this project is to build a serverless data pipeline using AWS CDK to analyze the data from three different sources. The historical stock data is stored in the Amazon aurora database, the historical FOREX data(Foreign Exchange Market) is stored in an AWS S3 bucket in JSON format, and the intraday stock data comes from the Alpha Vantage API. here we used AWS serverless technologies like Amazon Lambda and Amazon Glue to process and transform the data from the three data sources. We also used Amazon Athena and Quicksight to analyze and visualize the transformed data. 
+The main objective of this project is to build a serverless data pipeline using AWS CDK to analyze the data from three different sources. The historical stock data is stored in the Relational Database, the historical FOREX data(Foreign Exchange Market) is stored in an AWS S3 bucket in JSON format, and the intraday stock data comes from the Alpha Vantage API. here we used AWS serverless technologies like Amazon Lambda and Amazon Glue to process and transform the data from the three data sources. We also used Amazon Athena and Quicksight to analyze and visualize the transformed data. 
 
 
 # Data 
