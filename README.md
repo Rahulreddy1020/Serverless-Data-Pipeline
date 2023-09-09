@@ -36,10 +36,6 @@ Replace the example step-by-step instructions with your own.
 3. Make sure it's running properly by checking z
 4. To clean up at the end, run script: `python cleanup.py`
 
-## Lessons Learned
-
-It's good to reflect on what you learned throughout the process of building this project. Here you might discuss what you would have done differently if you had more time/money/data. Did you end up choosing the right tools or would you try something else next time?
-
 ## Contact
 
 Please feel free to contact me if you have any questions at: LinkedIn
